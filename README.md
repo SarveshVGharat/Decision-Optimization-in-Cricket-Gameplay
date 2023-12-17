@@ -1,4 +1,4 @@
-# CS747-Assignment-2
+# Decision Optimization in Cricket Gameplay
 
 Task 1: Implement Value Iteration, Howard Policy Iteration and LP
 
